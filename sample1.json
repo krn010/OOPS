@@ -1,0 +1,16 @@
+{
+"Rice" :[
+
+{"Name": "Basmati","Weight":100,"Price": 200},],
+
+
+"Pulse" :[
+{"Name": "B", "Weight":10,"Price":150},],
+
+
+"Wheat" :[
+{"Name": "C","Weight":20,"Price":250},]
+
+
+
+}
